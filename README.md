@@ -167,6 +167,7 @@ These categories represent potential priority areas for additional monitoring an
 The final solution consists of **four interactive Power BI dashboard pages**, each focusing on a different aspect of fraud intelligence.
 
 ### **Page 1 — Fraud Intelligence Overview**
+![Page 1 Overview](dashboard/PAGE%201.png)
 
 Provides executive-level visibility into:
 
@@ -179,6 +180,7 @@ Provides executive-level visibility into:
 * Fraud patterns by time
 
 ### **Page 2 — Risk & Behavioral Signals**
+![Page 2](dashboard/PAGE%202.png)
 
 Analyzes:
 
@@ -190,6 +192,7 @@ Analyzes:
 * Time-based risk patterns
 
 ### **Page 3 — Card & Customer Risk**
+![Page 3](dashboard/PAGE%203.png)
 
 Examines:
 
@@ -200,6 +203,7 @@ Examines:
 * Job categories with higher fraud rates
 
 ### **Page 4 — Merchant, Category & Geographic Analysis**
+![Page 4](dashboard/PAGE%204.png)
 
 Identifies fraud concentration across:
 
